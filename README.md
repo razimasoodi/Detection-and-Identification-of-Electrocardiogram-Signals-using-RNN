@@ -11,6 +11,7 @@ features. Also, QRS complex shows ventricular depolarization, which plays the mo
 Dataset: QT database
 
 In this assignment, you will predict the secondary sequences (annotations) from their primary sequences (samples). You are given a dataset of 146 files. Each sample file contains a primary sequence, ‘mV’ of signal, and its secondary is in annotation file ‘annotation’. Each primary sequence contains data streams of continuous values and its secondary sequence consist of 0 to 3 (1 for P wave, 2 for QRS complex, 3 for T wave and 0 for other points of signal). Thus, you have 73 input and output patterns of data streams. An example of input and output data streams is shown below.
+
 ![image](https://github.com/razimasoodi/Detection-and-Identification-of-Electrocardiogram-Signals-using-RNN/assets/170275013/ae886621-0e46-46e8-acd4-9b18b4233111)
 ![image](https://github.com/razimasoodi/Detection-and-Identification-of-Electrocardiogram-Signals-using-RNN/assets/170275013/bab5158c-a5fc-44dd-a037-7a0b74b5d385)
 
